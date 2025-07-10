@@ -1,6 +1,6 @@
 - 👋 Hi, I’m prasad 
 - 👀 I’m interested in  web development
-- 🌱 I’m currently learning ... html,css,js
+- 🌱 I’m currently learning ... html,css,bootstrap,tailwind,js
 - 💞️ I’m looking to collaborate on ...front end development works
 - 📫 reach me at 9692253099 | prasadkumar9692@gmail.com
 
